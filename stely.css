@@ -39,7 +39,7 @@ main{
 /* discount section start */
 .discount{
     display: flex;
-    background-color: rgb(177, 248, 224);
+    background-color: rgb(200, 251, 234);
     border: 1px solid yellowgreen;
     border-radius: 10px;
     gap: 30%;
@@ -73,5 +73,47 @@ main{
 }
 /* discount section end */
 
+/* main body section start */
+.main-body{
+    max-width: 1200px;
+    margin: 0px auto;
+}
+.head-Category{
+    padding: 10px;
+    background-color: rgb(190, 249, 230);
+    border-radius: 15px 15px 0px 0px;  
+}
+.head-Category h1{
+    text-align: center;
+    color: #fc3aa5;
+}
 
+.similar{
+    display: flex;
+    gap: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    justify-content: space-around;
+    margin-top: -15px;
+    padding: 20px;
+    border-radius: 0px 0px 15px 15px;
+}
 
+.similar-0{
+    background-color: rgb(196, 235, 222);
+    border: 1px solid yellowgreen;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+.similar-0 img{
+    width: 150px;
+    height: 100px;
+    border-radius: 25px;
+    padding: 20px;
+    /* margin: 20px; */
+}
+.similar-0 p{
+    text-align: center;
+}
+/* main body section start */
