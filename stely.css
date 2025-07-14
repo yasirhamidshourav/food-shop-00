@@ -1,0 +1,77 @@
+/* header section start */
+.header{
+    display: flex;
+    background-color: aquamarine;
+    border: 1px solid yellowgreen;
+    border-radius: 10px;
+    align-items: center;
+    padding: 8px 30px;
+    gap: 100px;
+}
+.header-1 h1{
+    color:rgb(96, 14, 228);
+    font-size: 20px;
+    padding: 8px; 
+}
+
+.header-2 ul {
+    list-style: none; 
+    display: inline-block; 
+}
+
+.header-2 li {
+    display: inline;
+    margin-left: 50px; 
+    color:rgb(96, 14, 228);
+    font-size: 20px;
+}
+.header-2 li a{
+    text-decoration: none;
+}
+/* header section end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
