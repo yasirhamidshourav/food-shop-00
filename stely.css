@@ -30,48 +30,48 @@
 }
 /* header section end */
 
+/* main section start */
+main{
+    max-width: 1500px;
+    margin: 0px auto;
+}
 
+/* discount section start */
+.discount{
+    display: flex;
+    background-color: rgb(177, 248, 224);
+    border: 1px solid yellowgreen;
+    border-radius: 10px;
+    gap: 30%;
+    align-items: center;
+}
+.discount-1{
+    padding: 50px;
+    margin: 10px;
+}
+.discount-2{
+    padding: 50px;
+    margin: 10px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.discount-1 h1{
+    font-size: 40px;
+}
+.discount-1 a{
+    font-size: 20px;
+}
+.discount-1 button{
+    background-color: rgb(156, 11, 246);
+    color: #22f00f;
+    border: 1px solid yellowgreen;
+    border-radius: 6px 10px;
+    padding: 10px 20px;
+}
+.discount-2 img{
+    border: 1px solid yellowgreen;
+    border-radius: 20px;
+}
+/* discount section end */
 
 
 
